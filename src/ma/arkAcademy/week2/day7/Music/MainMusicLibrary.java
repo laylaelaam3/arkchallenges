@@ -1,4 +1,4 @@
-package Day7.Music;
+package ma.arkAcademy.week2.day7.Music;
 
 public class MainMusicLibrary {
     public static void main(String[] args) {

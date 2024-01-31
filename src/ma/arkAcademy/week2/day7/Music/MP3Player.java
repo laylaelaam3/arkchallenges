@@ -1,4 +1,4 @@
-package Day7.Music;
+package ma.arkAcademy.week2.day7.Music;
 
 public  class MP3Player extends AudioPlayer {
     private String Song;

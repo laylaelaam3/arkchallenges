@@ -1,4 +1,4 @@
-package Day7.bankaccount;
+package ma.arkAcademy.week2.day7.bankaccount;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Day7.Geometric;
+package ma.arkAcademy.week2.day7.Geometric;
 
 import java.util.ArrayList;
 import java.util.List;
